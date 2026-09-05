@@ -1892,10 +1892,7 @@ Add project contributors here.
 ```text
 Project Team
 ------------
-Name 1
-Name 2
-Name 3
-Name 4
+Priyanshu Singh
 ```
 
 ---
@@ -1905,8 +1902,8 @@ Name 4
 For questions, suggestions, or collaboration:
 
 ```text
-Email: <project-email>
-GitHub: <github-profile>
+Email: <priyaanshu128912@gmailcom>
+GitHub: <[github-profile](https://github.com/Celest14l/)>
 ```
 
 ---
